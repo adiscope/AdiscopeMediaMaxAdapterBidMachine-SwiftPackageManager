@@ -31,8 +31,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AdiscopeMediaMaxAdapterBidMachine",
-            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/4.2.0/AdiscopeMediaMaxAdapterBidMachine.zip",
-            checksum: "f2cb65282455c15a2c0cdd4b4a917398ed8780447359c40c3a4e311db2acdaf5"
+            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/4.3.0/AdiscopeMediaMaxAdapterBidMachine.zip",
+            checksum: "a8151a72e44616580a342a21f2f7ed97f771f68e3e417f92e68f45fe832f5891"
         ),
         .binaryTarget(
             name: "BidMachine",
