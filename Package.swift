@@ -31,33 +31,33 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AdiscopeMediaMaxAdapterBidMachine",
-            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/4.3.0/AdiscopeMediaMaxAdapterBidMachine.zip",
-            checksum: "a8151a72e44616580a342a21f2f7ed97f771f68e3e417f92e68f45fe832f5891"
+            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/4.4.1/AdiscopeMediaMaxAdapterBidMachine.zip",
+            checksum: "b32cea74013929aa9599aaf52e57c20660118efb60ca2cf9d3c0b3035c9b9d45"
         ),
         .binaryTarget(
             name: "BidMachine",
-            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/4.2.0/BidMachine.xcframework.zip",
-            checksum: "0bed28eec0a194a8e6b99bd5c178b459024a95ad4c83be1bb1b949579c038c0e"
+            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/4.4.1/BidMachine.xcframework.zip",
+            checksum: "f3ce00b421532bf8047eda122cdc6eba21ca7ca6fcaeff1cdd02afe1953ed128"
         ),
         .binaryTarget(
             name: "StackModules",
-            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/4.2.0/StackModules.xcframework.zip",
-            checksum: "55c3ffcbf330c581afb2290c615441eff9c72d44f5b5ee30ed987f342cc43e77"
+            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/4.4.1/StackModules.xcframework.zip",
+            checksum: "4315dff8b4c376fd0302c61248e217053aa163f0b5f0bf8309ae6aaa859b6cb2"
         ),
         .binaryTarget(
             name: "StackProductPresentation",
-            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/4.2.0/StackProductPresentation.xcframework.zip",
-            checksum: "c14278e0945b200afdf3864cae289a14b65a8e9c301b657caae1d5bb5ef06905"
+            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/4.4.1/StackProductPresentation.xcframework.zip",
+            checksum: "5eb0aebb302ed857947d0d8809c3daf681fedb21fec2fdcb5f210e3f82a709c7"
         ),
         .binaryTarget(
             name: "StackRendering",
-            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/4.2.0/StackRendering.xcframework.zip",
-            checksum: "436a5aea2c46ac3fc06e5e901dad6a7df702564d3ceefb4ee8fd0e65947ad5e6"
+            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/4.4.1/StackRendering.xcframework.zip",
+            checksum: "acab8a992dae0aae30f20fbfb0a3372672a3efce0419fd9e42fc92d26c192ff4"
         ),
         .binaryTarget(
             name: "OMSDK_Appodeal",
-            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/4.2.0/OMSDK_Appodeal.xcframework.zip",
-            checksum: "8b03911438e9bee6fb36aa56a29008abc2ac91fd37af4ca0d99f13ade25caccf"
+            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/4.4.1/OMSDK_Appodeal.xcframework.zip",
+            checksum: "84df6f8ffd5d27ef068482458b4c02000030888f6a87b97bac2adafa48c7e880"
         ),
     ]
 )
